@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+  font-family: "Sacramento", "Dancing Script", cursive;
+  font-size: 560%;
+  color: #66BFBF;
+}
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+p
+{
+    font-family: 'Dongle', sans-serif;
+    font-size: 2rem;
+}
+span
+{
+    font-family: "Dancing Script", sans-serif;
+  font-size: x-large; 
+}
+.first {
+  padding: 100px;
+  padding-bottom: 0;
+  background-color: rgb(216, 233, 238);
+}
+.second {
+  padding: 70px;
+}
+.third {
+}
+.forth
+{
+    float: none;
+    padding: 70px;
+    
+}
+.fifth
+{
+    float: none;
+}
+.mypic {
+  height: 150px;
+  width: 150px;
+}
+.pic {
+  height: 150px;
+  padding: 50px;
+}
+
+.item {
+    float: left;
+}
+.picformat
+
+{
+    display: flex;
+    justify-content: center;
+}
+.topcloud {
+  position: absolute;
+  top: 10%;
+  left: 65%;
+}
+.bottomcloud {
+  position: absolute;
+  top: 40%;
+  left: 15%;
+}
+.mountain {
+  height: 100%;
+  width: 100%;
+}
+.education
+{
+    padding: 70px;
+    float: left;
+    height: 350px;
+}
+.table
+{
+    padding: 100px 0;
+}
+.contact
+{
+    float: left;
+    height: 250px;
+    padding: 50px;
+}
+.contacttext
+{
+    padding: 100px 0;
+}
+.social
+{
+    height: 50px;
+    padding: 50px;
+}
+.email
+
+{
+    float: left;
+    padding: 30px;
+    height: 150px;
+}
+.send
+{
+    padding: 40px 80px;
+    color: rgb(245, 121, 121);
+    font-size: xxx-large;
+    text-decoration: none;  
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    width: 12%;
+    border-width: 20px;
+    border-color: rgb(222, 222, 243);
+}
